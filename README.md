@@ -1,2 +1,3 @@
 # Linux-Task-Automation-Platform-
-A Linux-based Automates routine Linux system administration tasks using Bash scripts and Cron jobs to improve efficiency, reliability, and system maintenance.
+A Linux-based automation platform that simplifies system administration by automating backups, disk monitoring, and maintenance tasks using Bash scripting and Cron scheduling.
+Includes logging and a lightweight web interface to efficiently manage and execute system operations.
